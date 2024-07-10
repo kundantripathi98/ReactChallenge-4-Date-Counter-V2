@@ -1,2 +1,3 @@
 # ReactChallenge-4-Date-Counter-V2
-Created with CodeSandbox
+This is the challenge number 4 of react course.
+This challenge is the updation of challenge number 2.
